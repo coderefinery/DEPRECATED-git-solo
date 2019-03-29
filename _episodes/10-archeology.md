@@ -29,6 +29,20 @@ Let's first find the earliest commits to this repository:
 ```shell
 $ git log --reverse
 
+> ## (Note!) make sure the current directory is not already tracked by git
+>Please make sure that you do not do this inside an already tracked folder. 
+> Tip: issue the command 
+>```shell
+>$ git status
+>```
+> Inside the folder and if it is an untracked location you will see the message 
+> "fatal: not a git repository (or any of the parent directories): .git". 
+> If you get an message starting with "On branch .. " then you should stop and 
+> find a different location. 
+
+{: .discussion}
+
+
 commit c4a32caae2f0ddc4d85481f5adf61360198edc2f
 Author: Kjartan Thor Wikfeldt <ktwikfeldt@gmail.com>
 Date:   Tue May 8 15:15:48 2018 +0200
