@@ -5,28 +5,18 @@ permalink: /guide/
 
 # Instructor guide
 
-
-## Things to prepare
-
-Mirror a fresh https://github.com/coderefinery/example-project
-from https://github.com/bast/example-project for episode 2.
-
-Do not just fork it since it can confuse users sending pull requests.
-
-
 ## Different ways to present
 
 The whole lesson covers why you would use git, how to use it, and
-practical tips.  The earlier lessons are long, the later ones go quite
-fast.
+practical tips. The earlier lessons are long, the later ones go quite
+fast. "Interupted work", "Aliases and configuration" and "Git under the 
+hood" are optional, but it's good to wrap up the lesson with the last
+"Start simple, later increase the level of complexity" episode.
 
 The "Basics" section is the core of how to use git, and from there
 sections do just what they say.  "Basics", "Branching
 and merging", and "Conflict resolution" are the shortest basics of git
 (collaboration is another lesson).
-
-"Motivation", "Basics" and "Sharing repositories online" is the
-shortest path to a single-user Dropbox-like usage.
 
 If your audience doesn't need to be taught the "how" and only the
 "why", you can present sections "Motivation" and "Tips", which
