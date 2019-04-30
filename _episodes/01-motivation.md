@@ -23,7 +23,7 @@ objectives:
 
 ---
 
-## Why code becomes a disaster without version control
+## Why code could become a disaster without version control
 
 
 ### Roll-back functionality
