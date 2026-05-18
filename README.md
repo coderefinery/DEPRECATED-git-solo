@@ -1,9 +1,9 @@
 
-
-# [Version control with Git for a single developer](https://coderefinery.github.io/git-solo/)
+# Deprecated [Version control with Git for a single developer](https://coderefinery.github.io/git-solo/)
 
 - [Credit and license](https://coderefinery.github.io/git-solo/license/)
 
+> This lesson has been integrated into https://github.com/coderefinery/git-intro, where it is being further developed
 
 ## Local development
 
